@@ -1,0 +1,136 @@
+{
+	"home": {
+		"home": "Home",
+		"whitePaper": "Whitepaper",
+		"contactUs": "Contact Us",
+		"contractsAudit": "Audit"
+	},
+	"body": {
+		"hero": {
+			"welcome": "WELCOME TO CLIP",
+			"title": "Building a Sustainable World",
+			"description": "Blockchain is often referred to as the second internet and is a groundbreaking technology that solves the challenges faced by traditional systems.",
+			"readWhitePaper": "Read white paper"
+		},
+		"guide": {
+			"blockchain": {
+				"title": "Blockchain Is Often Referred To As",
+				"description1": "Blockchain is often referred to as the second internet and is a groundbreaking technology that solves the challenges faced by traditional systems. By utilizing blockchain, it becomes possible to prevent data tampering while perpetually preserving various activity histories.",
+				"description2": "This technology is used in the operation of cryptocurrencies (tokens) such as Bitcoin and Ethereum.",
+				"description3": "In this project, we focus on the sustainability of blockchain itself and aim to create a user-participatory sustainable economic zone by implementing it for activities and projects for the natural environment, as well as for idol activities."
+			},
+			"project": {
+				"title": "In This Project, We Aim To Contribute",
+				"description1": "In this project, we aim to contribute to the expansion of activities related to the development of new technologies and the conservation of existing resources.",
+				"description2": "Reducing CO2 emissions is important, but at the same time, forest conservation activities that absorb CO2 are crucial, and we will focus on afforestation efforts.",
+				"description3": "Furthermore, we will advance collaboration with projects working on the development of new-generation batteries (accumulators) that improve energy efficiency.",
+				"description4": "In addition, we will promote collaboration and support with organizations involved in environmental protection, such as biomass power generation for creating clean energy, through our platform."
+			},
+			"environment": {
+				"title": "As A Means To Make Environmental",
+				"description1": "As a means to make environmental activities enjoyable, we will incorporate idols into the initiative.",
+				"description2": "Idols are icons with significant social influence and serve as a source of daily comfort for their fans.",
+				"description3": "Utilizing their substantial social influence, we will collaborate and promote eco-friendly activities. Moreover, regardless of how much spotlight an idol may receive, the current reality is that they gradually fade out over time.",
+				"description4": "Our aim is to create a sustainable world in the idol industry, targeting idols from their early days to those who have graduated, ensuring longevity and continued relevance."
+			}
+		},
+		"anime": {
+			"title": "Anime, idols, eco. Various projects are starting to get underway."
+		},
+		"service": {
+			"title": "Our Services",
+			"afforestation": {
+				"title": "Afforestation",
+				"description1": "The world's forest area is approximately 3.99 billion hectares, accounting for 30.6% of the total land area. However, the world's forests are continuously decreasing, with an annual reduction of 3.3 million hectares.",
+				"description2": "To stop this deforestation, it is necessary to actively promote afforestation activities."
+			},
+			"evBattery": {
+				"title": "EV Battery",
+				"description1": "It has been a long time since the negative environmental impact of gasoline vehicles has been a concern, and strong regulations are being implemented worldwide, such as the European Commission in the EU planning to ban the sale of new gasoline vehicles from 2035 onwards.",
+				"description2": "Therefore, there is a demand for the production of batteries with lower CO2 emissions from the manufacturing stage, as well as measures to visualize the amount of reduction."
+			},
+			"biomass": {
+				"title": "Biomass Power Generation",
+				"description1": "Among clean energy sources, biomass power generation is receiving significant attention. Biomass power generation is a method of generating electricity by using the heat produced from burning materials such as wood chips and combustible waste.",
+				"description2": "The waste heat generated from power generation can be effectively used for heating and hot water in surrounding areas, making it an ideal form of clean energy."
+			},
+			"idol": {
+				"title": "Idol",
+				"description1": "In this project, Clip holders will be able to participate in the management of the idol group we produce.",
+				"description2": "Specifically, this includes involvement in the production of the idol group, participation in actual concerts and charity events, and a select group of users will be granted the right to co-create new songs with the idol group."
+			}
+		},
+		"roadmap": {
+			"title": "Roadmap",
+			"step1": "Jan, 2024: Private Sale",
+			"step2": "Feb, 2024: Public Sale",
+			"step3": "Mar, 2024: Launch Clip Platform",
+			"step4": "Aug. 2024: Idol Event",
+			"step5": "Sep, 2024: Airdrop",
+			"step6": "Oct, 2024 : Start to develop Carbon Credit chain",
+			"step7": "Nov, 2024: New Eco Project release",
+			"step8": "Jan, 2025: Idol Voting"
+		},
+		"ourteam": {
+			"title": "Our Team",
+			"comingSoon": "Coming Soon...",
+			"member": {
+				"1": {
+					"name": "Atsuko Maeda",
+					"skill": "UI UX Designer"
+				},
+				"2": {
+					"name": "Kristin Watson",
+					"skill": "Dog Trainer"
+				},
+				"3": {
+					"name": "Esther Howard",
+					"skill": "Marketing Coordinator"
+				},
+				"4": {
+					"name": "Bessie Cooper",
+					"skill": "President of Sales"
+				}
+			}
+		},
+		"frequently": {
+			"title": "Frequently Answer Questions",
+			"0": {
+				"question": "What is the mint price?",
+				"answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't"
+			},
+			"1": {
+				"question": "What is the collection supply?",
+				"answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't"
+			},
+			"2": {
+				"question": "Where I can trade the NFTs?",
+				"answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't"
+			},
+			"3": {
+				"question": "What is the mint price?",
+				"answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't"
+			},
+			"4": {
+				"question": "What is X3DYS?",
+				"answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't"
+			},
+			"5": {
+				"question": "What are the beneficts?",
+				"answer": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't"
+			}
+		},
+		"presaleInfo": {
+			"title": "Pre-Sale Information"
+		}
+	},
+	"footer": {
+		"copyRight": "Clip @ All Rights Are Reserved",
+		"terms": "Terms of use",
+		"policy": "Privacy policy",
+		"discord": "Discord",
+		"telegram": "Telegram",
+		"youtubue": "Youtube",
+		"tiktok": "Tiktok"
+	}
+}
